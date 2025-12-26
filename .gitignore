@@ -1,0 +1,14 @@
+# --- Datasets (do NOT upload) ---
+Dataset/
+Dataset (Audio)/
+
+# --- Python/Jupyter ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- OS/IDE ---
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
